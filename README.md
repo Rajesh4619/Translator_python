@@ -37,8 +37,7 @@ _Note: The specific version `4.0.0-rc1` is recommended because it works better w
 1. Clone this repository:
 
 ```bash
-git clone 
-cd language-translator
+git clone https://github.com/Rajesh4619/Translator_python.git
 ```
 
 2. Install the dependencies listed in the `requirements.txt` file:
